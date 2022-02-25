@@ -32,15 +32,6 @@ This website is deployed in Heroku you can access it [here](https://cotton-disea
 
 https://user-images.githubusercontent.com/71584572/125454585-796cf23c-3389-4463-bf27-172c7a56c1b3.mp4
 
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-@shamanth1998Propose changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
-  
- Waiting for your fork…
 © 2022 GitHub, Inc.
 Terms
 Privacy
