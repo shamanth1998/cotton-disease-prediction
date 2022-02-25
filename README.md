@@ -1,37 +1,4 @@
-##cotton-disease-detection
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@shamanth1998 
-shamanth j 
-/
-cotton-disease-detection
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
 
-cotton-disease-detection
-/
-README.md
-in
-shamanth_j:main
- 
-
-Spaces
-
-2
-
-Soft wrap
 1
 # cotton-disease-detection  
 2
